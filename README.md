@@ -1,5 +1,6 @@
 ![DuoFold Live](docs/assets/duofold-live-logo.svg)
 
+
 # Duo Fold Live · 3.5.2
 
 **Current official release: 3.5.2.** Occasional unlock wallpaper flashing remains a known issue. For Keep Awake, disable Samsung’s “Lock when folded”; see troubleshooting. [Rollback baseline and release history](KNOWN_WORKING_BUILD.md).
